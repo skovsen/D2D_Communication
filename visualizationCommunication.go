@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"log"
 
-	"github.com/skovsen/agentlogic"
+	agentlogic "github.com/skovsen/D2D_AgentLogic"
 	"github.com/libp2p/go-libp2p-core/peer"
 	pubsub "github.com/libp2p/go-libp2p-pubsub"
 	"github.com/paulmach/orb"
