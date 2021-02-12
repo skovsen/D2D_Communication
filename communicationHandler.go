@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/alexandrainst/agentlogic"
+	"github.com/skovsen/agentlogic"
 	"github.com/libp2p/go-libp2p"
 	"github.com/libp2p/go-libp2p-core/crypto"
 	"github.com/libp2p/go-libp2p-core/host"
